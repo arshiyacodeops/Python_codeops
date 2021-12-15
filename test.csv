@@ -1,0 +1,239 @@
+,partId,productCode,productName,suggestedPrice.value,suggestedPrice.currency,resellersPrice.value,resellersPrice.currency
+0,C-S.ALL-Y,ALL,All Products Pack - Commercial annual subscription,649.00,USD,584.10,USD
+1,C-S.ALL-Y-20C,ALL,All Products Pack - Commercial annual subscription with 20% continuity discount,519.00,USD,467.10,USD
+2,C-S.ALL-Y-40C,ALL,All Products Pack - Commercial annual subscription with 40% continuity discount,389.00,USD,350.10,USD
+3,P-S.ALL-Y,ALL,All Products Pack - Personal annual subscription,249.00,USD,224.10,USD
+4,P-S.ALL-Y-20C,ALL,All Products Pack - Personal annual subscription with 20% continuity discount,199.00,USD,179.10,USD
+5,P-S.ALL-Y-40C,ALL,All Products Pack - Personal annual subscription with 40% continuity discount,149.00,USD,134.10,USD
+6,C-S.AC-Y,AC,AppCode - Commercial annual subscription,199.00,USD,179.10,USD
+7,C-S.AC-Y-20C,AC,AppCode - Commercial annual subscription with 20% continuity discount,159.00,USD,143.10,USD
+8,C-S.AC-Y-40C,AC,AppCode - Commercial annual subscription with 40% continuity discount,119.00,USD,107.10,USD
+9,P-S.AC-Y,AC,AppCode - Personal annual subscription,89.00,USD,80.10,USD
+10,P-S.AC-Y-20C,AC,AppCode - Personal annual subscription with 20% continuity discount,71.00,USD,63.90,USD
+11,P-S.AC-Y-40C,AC,AppCode - Personal annual subscription with 40% continuity discount,53.00,USD,47.70,USD
+12,C-S.CL-Y,CL,CLion - Commercial annual subscription,199.00,USD,179.10,USD
+13,C-S.CL-Y-20C,CL,CLion - Commercial annual subscription with 20% continuity discount,159.00,USD,143.10,USD
+14,C-S.CL-Y-40C,CL,CLion - Commercial annual subscription with 40% continuity discount,119.00,USD,107.10,USD
+15,P-S.CL-Y,CL,CLion - Personal annual subscription,89.00,USD,80.10,USD
+16,P-S.CL-Y-20C,CL,CLion - Personal annual subscription with 20% continuity discount,71.00,USD,63.90,USD
+17,P-S.CL-Y-40C,CL,CLion - Personal annual subscription with 40% continuity discount,53.00,USD,47.70,USD
+18,C-S.DB-Y,DB,DataGrip - Commercial annual subscription,199.00,USD,179.10,USD
+19,C-S.DB-Y-20C,DB,DataGrip - Commercial annual subscription with 20% continuity discount,159.00,USD,143.10,USD
+20,C-S.DB-Y-40C,DB,DataGrip - Commercial annual subscription with 40% continuity discount,119.00,USD,107.10,USD
+21,P-S.DB-Y,DB,DataGrip - Personal annual subscription,89.00,USD,80.10,USD
+22,P-S.DB-Y-20C,DB,DataGrip - Personal annual subscription with 20% continuity discount,71.00,USD,63.90,USD
+23,P-S.DB-Y-40C,DB,DataGrip - Personal annual subscription with 40% continuity discount,53.00,USD,47.70,USD
+24,C-S.DUL-Y,DUL,dotUltimate - Commercial annual subscription,399.00,USD,359.10,USD
+25,C-S.DUL-Y-20C,DUL,dotUltimate - Commercial annual subscription with 20% continuity discount,319.00,USD,287.10,USD
+26,C-S.DUL-Y-40C,DUL,dotUltimate - Commercial annual subscription with 40% continuity discount,239.00,USD,215.10,USD
+27,P-S.DUL-Y,DUL,dotUltimate - Personal annual subscription,149.00,USD,134.10,USD
+28,P-S.DUL-Y-20C,DUL,dotUltimate - Personal annual subscription with 20% continuity discount,119.00,USD,107.10,USD
+29,P-S.DUL-Y-40C,DUL,dotUltimate - Personal annual subscription with 40% continuity discount,89.00,USD,80.10,USD
+30,C-S.GO-Y,GO,GoLand - Commercial annual subscription,199.00,USD,179.10,USD
+31,C-S.GO-Y-20C,GO,GoLand - Commercial annual subscription with 20% continuity discount,159.00,USD,143.10,USD
+32,C-S.GO-Y-40C,GO,GoLand - Commercial annual subscription with 40% continuity discount,119.00,USD,107.10,USD
+33,P-S.GO-Y,GO,GoLand - Personal annual subscription,89.00,USD,80.10,USD
+34,P-S.GO-Y-20C,GO,GoLand - Personal annual subscription with 20% continuity discount,71.00,USD,63.90,USD
+35,P-S.GO-Y-40C,GO,GoLand - Personal annual subscription with 40% continuity discount,53.00,USD,47.70,USD
+36,C-S.II-Y,II,IntelliJ IDEA Ultimate - Commercial annual subscription,499.00,USD,449.10,USD
+37,C-S.II-Y-20C,II,IntelliJ IDEA Ultimate - Commercial annual subscription with 20% continuity discount,399.00,USD,359.10,USD
+38,C-S.II-Y-40C,II,IntelliJ IDEA Ultimate - Commercial annual subscription with 40% continuity discount,299.00,USD,269.10,USD
+39,P-S.II-Y,II,IntelliJ IDEA Ultimate - Personal annual subscription,149.00,USD,134.10,USD
+40,P-S.II-Y-20C,II,IntelliJ IDEA Ultimate - Personal annual subscription with 20% continuity discount,119.00,USD,107.10,USD
+41,P-S.II-Y-40C,II,IntelliJ IDEA Ultimate - Personal annual subscription with 40% continuity discount,89.00,USD,80.10,USD
+42,C-S.PS-Y,PS,PhpStorm - Commercial annual subscription,199.00,USD,179.10,USD
+43,C-S.PS-Y-20C,PS,PhpStorm - Commercial annual subscription with 20% continuity discount,159.00,USD,143.10,USD
+44,C-S.PS-Y-40C,PS,PhpStorm - Commercial annual subscription with 40% continuity discount,119.00,USD,107.10,USD
+45,P-S.PS-Y,PS,PhpStorm - Personal annual subscription,89.00,USD,80.10,USD
+46,P-S.PS-Y-20C,PS,PhpStorm - Personal annual subscription with 20% continuity discount,71.00,USD,63.90,USD
+47,P-S.PS-Y-40C,PS,PhpStorm - Personal annual subscription with 40% continuity discount,53.00,USD,47.70,USD
+48,C-S.PC-Y,PC,PyCharm - Commercial annual subscription,199.00,USD,179.10,USD
+49,C-S.PC-Y-20C,PC,PyCharm - Commercial annual subscription with 20% continuity discount,159.00,USD,143.10,USD
+50,C-S.PC-Y-40C,PC,PyCharm - Commercial annual subscription with 40% continuity discount,119.00,USD,107.10,USD
+51,P-S.PC-Y,PC,PyCharm - Personal annual subscription,89.00,USD,80.10,USD
+52,P-S.PC-Y-20C,PC,PyCharm - Personal annual subscription with 20% continuity discount,71.00,USD,63.90,USD
+53,P-S.PC-Y-40C,PC,PyCharm - Personal annual subscription with 40% continuity discount,53.00,USD,47.70,USD
+54,C-S.RS0-Y,RS0,ReSharper - Commercial annual subscription,299.00,USD,269.10,USD
+55,C-S.RS0-Y-20C,RS0,ReSharper - Commercial annual subscription with 20% continuity discount,239.00,USD,215.10,USD
+56,C-S.RS0-Y-40C,RS0,ReSharper - Commercial annual subscription with 40% continuity discount,179.00,USD,161.10,USD
+57,P-S.RS0-Y,RS0,ReSharper - Personal annual subscription,129.00,USD,116.10,USD
+58,P-S.RS0-Y-20C,RS0,ReSharper - Personal annual subscription with 20% continuity discount,103.00,USD,92.70,USD
+59,P-S.RS0-Y-40C,RS0,ReSharper - Personal annual subscription with 40% continuity discount,77.00,USD,69.30,USD
+60,C-S.RC-Y,RC,ReSharper C++ - Commercial annual subscription,199.00,USD,179.10,USD
+61,C-S.RC-Y-20C,RC,ReSharper C++ - Commercial annual subscription with 20% continuity discount,159.00,USD,143.10,USD
+62,C-S.RC-Y-40C,RC,ReSharper C++ - Commercial annual subscription with 40% continuity discount,119.00,USD,107.10,USD
+63,P-S.RC-Y,RC,ReSharper C++ - Personal annual subscription,89.00,USD,80.10,USD
+64,P-S.RC-Y-20C,RC,ReSharper C++ - Personal annual subscription with 20% continuity discount,71.00,USD,63.90,USD
+65,P-S.RC-Y-40C,RC,ReSharper C++ - Personal annual subscription with 40% continuity discount,53.00,USD,47.70,USD
+66,C-S.RD-Y,RD,Rider - Commercial annual subscription,349.00,USD,314.10,USD
+67,C-S.RD-Y-20C,RD,Rider - Commercial annual subscription with 20% continuity discount,279.00,USD,251.10,USD
+68,C-S.RD-Y-40C,RD,Rider - Commercial annual subscription with 40% continuity discount,209.00,USD,188.10,USD
+69,P-S.RD-Y,RD,Rider - Personal annual subscription,139.00,USD,125.10,USD
+70,P-S.RD-Y-20C,RD,Rider - Personal annual subscription with 20% continuity discount,111.00,USD,99.90,USD
+71,P-S.RD-Y-40C,RD,Rider - Personal annual subscription with 40% continuity discount,83.00,USD,74.70,USD
+72,C-S.RM-Y,RM,RubyMine - Commercial annual subscription,199.00,USD,179.10,USD
+73,C-S.RM-Y-20C,RM,RubyMine - Commercial annual subscription with 20% continuity discount,159.00,USD,143.10,USD
+74,C-S.RM-Y-40C,RM,RubyMine - Commercial annual subscription with 40% continuity discount,119.00,USD,107.10,USD
+75,P-S.RM-Y,RM,RubyMine - Personal annual subscription,89.00,USD,80.10,USD
+76,P-S.RM-Y-20C,RM,RubyMine - Personal annual subscription with 20% continuity discount,71.00,USD,63.90,USD
+77,P-S.RM-Y-40C,RM,RubyMine - Personal annual subscription with 40% continuity discount,53.00,USD,47.70,USD
+78,TCA-NS,TCA,TeamCity - New Build Agent license,299.00,USD,269.10,USD
+79,TCA-R,TCA,TeamCity - Renewal of upgrade subscription for Build Agent(s),149.00,USD,134.10,USD
+80,TCA-P,TCA,TeamCity - Past due renewal of upgrade subscription for Build Agent(s),229.00,USD,206.10,USD
+81,TCE-NS,TCE,TeamCity - New Enterprise Server license including 3 Build Agents,1999.00,USD,1799.10,USD
+82,TCE-R,TCE,TeamCity - Renewal of upgrade subscription for Enterprise Server with 3 Build Agents,999.00,USD,899.10,USD
+83,TCE-P,TCE,TeamCity - Past due renewal of upgrade subscription for Enterprise Server with 3 Build Agents,1499.00,USD,1349.10,USD
+84,TCE5-NS,TCE5,TeamCity - New Enterprise Server license including 5 Build Agents,2499.00,USD,2249.10,USD
+85,TCE5-R,TCE5,TeamCity - Renewal of upgrade subscription for Enterprise Server with 5 Build Agents,1249.00,USD,1124.10,USD
+86,TCE5-P,TCE5,TeamCity - Past due renewal of upgrade subscription for Enterprise Server with 5 Build Agents,1899.00,USD,1709.10,USD
+87,TCE10-NS,TCE10,TeamCity - New Enterprise Server license including 10 Build Agents,3699.00,USD,3329.10,USD
+88,TCE10-R,TCE10,TeamCity - Renewal of upgrade subscription for Enterprise Server with 10 Build Agents,1849.00,USD,1664.10,USD
+89,TCE10-P,TCE10,TeamCity - Past due renewal of upgrade subscription for Enterprise Server with 10 Build Agents,2799.00,USD,2519.10,USD
+90,TCE20-NS,TCE20,TeamCity - New Enterprise Server license including 20 Build Agents,5999.00,USD,5399.10,USD
+91,TCE20-R,TCE20,TeamCity - Renewal of upgrade subscription for Enterprise Server with 20 Build Agents,2999.00,USD,2699.10,USD
+92,TCE20-P,TCE20,TeamCity - Past due renewal of upgrade subscription for Enterprise Server with 20 Build Agents,4499.00,USD,4049.10,USD
+93,TCE50-NS,TCE50,TeamCity - New Enterprise Server license including 50 Build Agents,12999.00,USD,11699.10,USD
+94,TCE50-R,TCE50,TeamCity - Renewal of upgrade subscription for Enterprise Server with 50 Build Agents,6499.00,USD,5849.10,USD
+95,TCE50-P,TCE50,TeamCity - Past due renewal of upgrade subscription for Enterprise Server with 50 Build Agents,9799.00,USD,8819.10,USD
+96,TCE100-NS,TCE100,TeamCity - New Enterprise Server license including 100 Build Agents,21999.00,USD,19799.10,USD
+97,TCE100-R,TCE100,TeamCity - Renewal of upgrade subscription for Enterprise Server with 100 Build Agents,10999.00,USD,9899.10,USD
+98,TCE100-P,TCE100,TeamCity - Past due renewal of upgrade subscription for Enterprise Server with 100 Build Agents,16499.00,USD,14849.10,USD
+99,TCE-TCE5-A,TCE5,TeamCity - Upgrade from Enterprise Server with 3 Build Agents to Enterprise Server with 5 Build Agents,500.00,USD,450.00,USD
+100,TCE-TCE10-A,TCE10,TeamCity - Upgrade from Enterprise Server with 3 Build Agents to Enterprise Server with 10 Build Agents,1700.00,USD,1530.00,USD
+101,TCE-TCE20-A,TCE20,TeamCity - Upgrade from Enterprise Server with 3 Build Agents to Enterprise Server with 20 Build Agents,4000.00,USD,3600.00,USD
+102,TCE-TCE50-A,TCE50,TeamCity - Upgrade from Enterprise Server with 3 Build Agents to Enterprise Server with 50 Build Agents,11000.00,USD,9900.00,USD
+103,TCE-TCE100-A,TCE100,TeamCity - Upgrade from Enterprise Server with 3 Build Agents to Enterprise Server with 100 Build Agents,20000.00,USD,18000.00,USD
+104,TCE5-TCE10-A,TCE10,TeamCity - Upgrade from Enterprise Server with 5 Build Agents to Enterprise Server with 10 Build Agents,1200.00,USD,1080.00,USD
+105,TCE5-TCE20-A,TCE20,TeamCity - Upgrade from Enterprise Server with 5 Build Agents to Enterprise Server with 20 Build Agents,3500.00,USD,3150.00,USD
+106,TCE5-TCE50-A,TCE50,TeamCity - Upgrade from Enterprise Server with 5 Build Agents to Enterprise Server with 50 Build Agents,10500.00,USD,9450.00,USD
+107,TCE5-TCE100-A,TCE100,TeamCity - Upgrade from Enterprise Server with 5 Build Agents to Enterprise Server with 100 Build Agents,19500.00,USD,17550.00,USD
+108,TCE10-TCE20-A,TCE20,TeamCity - Upgrade from Enterprise Server with 10 Build Agents to Enterprise Server with 20 Build Agents,2300.00,USD,2070.00,USD
+109,TCE10-TCE50-A,TCE50,TeamCity - Upgrade from Enterprise Server with 10 Build Agents to Enterprise Server with 50 Build Agents,9300.00,USD,8370.00,USD
+110,TCE10-TCE100-A,TCE100,TeamCity - Upgrade from Enterprise Server with 10 Build Agents to Enterprise Server with 100 Build Agents,18300.00,USD,16470.00,USD
+111,TCE20-TCE50-A,TCE50,TeamCity - Upgrade from Enterprise Server with 20 Build Agents to Enterprise Server with 50 Build Agents,7000.00,USD,6300.00,USD
+112,TCE20-TCE100-A,TCE100,TeamCity - Upgrade from Enterprise Server with 20 Build Agents to Enterprise Server with 100 Build Agents,16000.00,USD,14400.00,USD
+113,TCE50-TCE100-A,TCE100,TeamCity - Upgrade from Enterprise Server with 50 Build Agents to Enterprise Server with 100 Build Agents,9000.00,USD,8100.00,USD
+114,USN25-NS,USN25,Upsource 25-User Pack - New license including upgrade subscription,1300.00,USD,1170.00,USD
+115,USN25-R,USN25,Upsource 25-User Pack - Renewal of upgrade subscription,650.00,USD,585.00,USD
+116,USN25-P,USN25,Upsource 25-User Pack - Past due renewal of upgrade subscription,975.00,USD,877.50,USD
+117,USN50-NS,USN50,Upsource 50-User Pack - New license including upgrade subscription,2500.00,USD,2250.00,USD
+118,USN50-R,USN50,Upsource 50-User Pack - Renewal of upgrade subscription,1250.00,USD,1125.00,USD
+119,USN50-P,USN50,Upsource 50-User Pack - Past due renewal of upgrade subscription,1875.00,USD,1687.50,USD
+120,USN100-NS,USN100,Upsource 100-User Pack - New license including upgrade subscription,4500.00,USD,4050.00,USD
+121,USN100-R,USN100,Upsource 100-User Pack - Renewal of upgrade subscription,2250.00,USD,2025.00,USD
+122,USN100-P,USN100,Upsource 100-User Pack - Past due renewal of upgrade subscription,3375.00,USD,3037.50,USD
+123,USN250-NS,USN250,Upsource 250-User Pack - New license including upgrade subscription,9000.00,USD,8100.00,USD
+124,USN250-R,USN250,Upsource 250-User Pack - Renewal of upgrade subscription,4500.00,USD,4050.00,USD
+125,USN250-P,USN250,Upsource 250-User Pack - Past due renewal of upgrade subscription,6750.00,USD,6075.00,USD
+126,USN500-NS,USN500,Upsource 500-User Pack - New license including upgrade subscription,12000.00,USD,10800.00,USD
+127,USN500-R,USN500,Upsource 500-User Pack - Renewal of upgrade subscription,6000.00,USD,5400.00,USD
+128,USN500-P,USN500,Upsource 500-User Pack - Past due renewal of upgrade subscription,9000.00,USD,8100.00,USD
+129,USN1000-NS,USN1000,Upsource 1000-User Pack - New license including upgrade subscription,21000.00,USD,18900.00,USD
+130,USN1000-R,USN1000,Upsource 1000-User Pack - Renewal of upgrade subscription,10500.00,USD,9450.00,USD
+131,USN1000-P,USN1000,Upsource 1000-User Pack - Past due renewal of upgrade subscription,15750.00,USD,14175.00,USD
+132,USN25-USN50-A,USN50,Upsource 50-User Pack - License upgrade from 25-User Pack to 50-User Pack including upgrade subscription,1200.00,USD,1080.00,USD
+133,USN25-USN100-A,USN100,Upsource 100-User Pack - License upgrade from 25-User Pack to 100-User Pack including upgrade subscription,3200.00,USD,2880.00,USD
+134,USN25-USN250-A,USN250,Upsource 250-User Pack - License upgrade from 25-User Pack to 250-User Pack including upgrade subscription,7700.00,USD,6930.00,USD
+135,USN25-USN500-A,USN500,Upsource 500-User Pack - License upgrade from 25-User Pack to 500-User Pack including upgrade subscription,10700.00,USD,9630.00,USD
+136,USN25-USN1000-A,USN1000,Upsource 1000-User Pack - License upgrade from 25-User Pack to 1000-User Pack including upgrade subscription,19700.00,USD,17730.00,USD
+137,USN50-USN100-A,USN100,Upsource 100-User Pack - License upgrade from 50-User Pack to 100-User Pack including upgrade subscription,2000.00,USD,1800.00,USD
+138,USN50-USN250-A,USN250,Upsource 250-User Pack - License upgrade from 50-User Pack to 250-User Pack including upgrade subscription,6500.00,USD,5850.00,USD
+139,USN50-USN500-A,USN500,Upsource 500-User Pack - License upgrade from 50-User Pack to 500-User Pack including upgrade subscription,9500.00,USD,8550.00,USD
+140,USN50-USN1000-A,USN1000,Upsource 1000-User Pack - License upgrade from 50-User Pack to 1000-User Pack including upgrade subscription,18500.00,USD,16650.00,USD
+141,USN100-USN250-A,USN250,Upsource 250-User Pack - License upgrade from 100-User Pack to 250-User Pack including upgrade subscription,4500.00,USD,4050.00,USD
+142,USN100-USN500-A,USN500,Upsource 500-User Pack - License upgrade from 100-User Pack to 500-User Pack including upgrade subscription,7500.00,USD,6750.00,USD
+143,USN100-USN1000-A,USN1000,Upsource 1000-User Pack - License upgrade from 100-User Pack to 1000-User Pack including upgrade subscription,16500.00,USD,14850.00,USD
+144,USN250-USN500-A,USN500,Upsource 500-User Pack - License upgrade from 250-User Pack to 500-User Pack including upgrade subscription,3000.00,USD,2700.00,USD
+145,USN250-USN1000-A,USN1000,Upsource 1000-User Pack - License upgrade from 250-User Pack to 1000-User Pack including upgrade subscription,12000.00,USD,10800.00,USD
+146,USN500-USN1000-A,USN1000,Upsource 1000-User Pack - License upgrade from 500-User Pack to 1000-User Pack including upgrade subscription,9000.00,USD,8100.00,USD
+147,C-S.WS-Y,WS,WebStorm - Commercial annual subscription,129.00,USD,116.10,USD
+148,C-S.WS-Y-20C,WS,WebStorm - Commercial annual subscription with 20% continuity discount,103.00,USD,92.70,USD
+149,C-S.WS-Y-40C,WS,WebStorm - Commercial annual subscription with 40% continuity discount,77.00,USD,69.30,USD
+150,P-S.WS-Y,WS,WebStorm - Personal annual subscription,59.00,USD,53.10,USD
+151,P-S.WS-Y-20C,WS,WebStorm - Personal annual subscription with 20% continuity discount,47.00,USD,42.30,USD
+152,P-S.WS-Y-40C,WS,WebStorm - Personal annual subscription with 40% continuity discount,35.00,USD,31.50,USD
+153,YTDN15-NS,YTDN15,YouTrack Stand-Alone 15-User Pack - New license including upgrade subscription,600.00,USD,540.00,USD
+154,YTDN15-R,YTDN15,YouTrack Stand-Alone 15-User Pack - Renewal of upgrade subscription,300.00,USD,270.00,USD
+155,YTDN15-P,YTDN15,YouTrack Stand-Alone 15-User Pack - Past due renewal of upgrade subscription,450.00,USD,405.00,USD
+156,YTDN25-NS,YTDN25,YouTrack Stand-Alone 25-User Pack - New license including upgrade subscription,1100.00,USD,990.00,USD
+157,YTDN25-R,YTDN25,YouTrack Stand-Alone 25-User Pack - Renewal of upgrade subscription,550.00,USD,495.00,USD
+158,YTDN25-P,YTDN25,YouTrack Stand-Alone 25-User Pack - Past due renewal of upgrade subscription,825.00,USD,742.50,USD
+159,YTDN50-NS,YTDN50,YouTrack Stand-Alone 50-User Pack - New license including upgrade subscription,2000.00,USD,1800.00,USD
+160,YTDN50-R,YTDN50,YouTrack Stand-Alone 50-User Pack - Renewal of upgrade subscription,1000.00,USD,900.00,USD
+161,YTDN50-P,YTDN50,YouTrack Stand-Alone 50-User Pack - Past due renewal of upgrade subscription,1500.00,USD,1350.00,USD
+162,YTDN100-NS,YTDN100,YouTrack Stand-Alone 100-User Pack - New license including upgrade subscription,4000.00,USD,3600.00,USD
+163,YTDN100-R,YTDN100,YouTrack Stand-Alone 100-User Pack - Renewal of upgrade subscription,2000.00,USD,1800.00,USD
+164,YTDN100-P,YTDN100,YouTrack Stand-Alone 100-User Pack - Past due renewal of upgrade subscription,3000.00,USD,2700.00,USD
+165,YTDN250-NS,YTDN250,YouTrack Stand-Alone 250-User Pack - New license including upgrade subscription,9000.00,USD,8100.00,USD
+166,YTDN250-R,YTDN250,YouTrack Stand-Alone 250-User Pack - Renewal of upgrade subscription,4500.00,USD,4050.00,USD
+167,YTDN250-P,YTDN250,YouTrack Stand-Alone 250-User Pack - Past due renewal of upgrade subscription,6750.00,USD,6075.00,USD
+168,YTDN500-NS,YTDN500,YouTrack Stand-Alone 500-User Pack - New license including upgrade subscription,12000.00,USD,10800.00,USD
+169,YTDN500-R,YTDN500,YouTrack Stand-Alone 500-User Pack - Renewal of upgrade subscription,6000.00,USD,5400.00,USD
+170,YTDN500-P,YTDN500,YouTrack Stand-Alone 500-User Pack - Past due renewal of upgrade subscription,9000.00,USD,8100.00,USD
+171,YTDN750-NS,YTDN750,YouTrack Stand-Alone 750-User Pack - New license including upgrade subscription,14000.00,USD,12600.00,USD
+172,YTDN750-R,YTDN750,YouTrack Stand-Alone 750-User Pack - Renewal of upgrade subscription,7000.00,USD,6300.00,USD
+173,YTDN750-P,YTDN750,YouTrack Stand-Alone 750-User Pack - Past due renewal of upgrade subscription,10500.00,USD,9450.00,USD
+174,YTDN1000-NS,YTDN1000,YouTrack Stand-Alone 1000-User Pack - New license including upgrade subscription,16000.00,USD,14400.00,USD
+175,YTDN1000-R,YTDN1000,YouTrack Stand-Alone 1000-User Pack - Renewal of upgrade subscription,8000.00,USD,7200.00,USD
+176,YTDN1000-P,YTDN1000,YouTrack Stand-Alone 1000-User Pack - Past due renewal of upgrade subscription,12000.00,USD,10800.00,USD
+177,YTDN2000-NS,YTDN2000,YouTrack Stand-Alone 2000-User Pack - New license including upgrade subscription,20000.00,USD,18000.00,USD
+178,YTDN2000-R,YTDN2000,YouTrack Stand-Alone 2000-User Pack - Renewal of upgrade subscription,10000.00,USD,9000.00,USD
+179,YTDN2000-P,YTDN2000,YouTrack Stand-Alone 2000-User Pack - Past due renewal of upgrade subscription,15000.00,USD,13500.00,USD
+180,YTD25-R,YTD25,YouTrack Stand-Alone 25-User Pack - Renewal of upgrade subscription,350.00,USD,315.00,USD
+181,YTD50-R,YTD50,YouTrack Stand-Alone 50-User Pack - Renewal of upgrade subscription,525.00,USD,472.50,USD
+182,YTD100-R,YTD100,YouTrack Stand-Alone 100-User Pack - Renewal of upgrade subscription,1050.00,USD,945.00,USD
+183,YTD500-R,YTD500,YouTrack Stand-Alone 500-User Pack - Renewal of upgrade subscription,2100.00,USD,1890.00,USD
+184,YTD2000-R,YTD2000,YouTrack Stand-Alone 2000-User Pack - Renewal of upgrade subscription,4200.00,USD,3780.00,USD
+185,YTD10000-R,YTD10000,YouTrack Stand-Alone 10000-User Pack - Renewal of upgrade subscription,7000.00,USD,6300.00,USD
+186,YTDE-R,YTDE,YouTrack Stand-Alone Enterprise pack - Renewal of upgrade subscription,8400.00,USD,7560.00,USD
+187,YTDN15-YTDN25-A,YTDN25,YouTrack Stand-Alone 25-User Pack - License upgrade from 15-User Pack including upgrade subscription,500.00,USD,450.00,USD
+188,YTDN15-YTDN50-A,YTDN50,YouTrack Stand-Alone 50-User Pack - License upgrade from 15-User Pack including upgrade subscription,1400.00,USD,1260.00,USD
+189,YTDN15-YTDN100-A,YTDN100,YouTrack Stand-Alone 100-User Pack - License upgrade from 15-User Pack including upgrade subscription,3400.00,USD,3060.00,USD
+190,YTDN15-YTDN250-A,YTDN250,YouTrack Stand-Alone 250-User Pack - License upgrade from 15-User Pack including upgrade subscription,8400.00,USD,7560.00,USD
+191,YTDN15-YTDN500-A,YTDN500,YouTrack Stand-Alone 500-User Pack - License upgrade from 15-User Pack including upgrade subscription,11400.00,USD,10260.00,USD
+192,YTDN15-YTDN750-A,YTDN750,YouTrack Stand-Alone 750-User Pack - License upgrade from 15-User Pack including upgrade subscription,13400.00,USD,12060.00,USD
+193,YTDN15-YTDN1000-A,YTDN1000,YouTrack Stand-Alone 1000-User Pack - License upgrade from 15-User Pack including upgrade subscription,15400.00,USD,13860.00,USD
+194,YTDN15-YTDN2000-A,YTDN2000,YouTrack Stand-Alone 2000-User Pack - License upgrade from 15-User Pack including upgrade subscription,19400.00,USD,17460.00,USD
+195,YTDN25-YTDN50-A,YTDN50,YouTrack Stand-Alone 50-User Pack - License upgrade from 25-User Pack including upgrade subscription,900.00,USD,810.00,USD
+196,YTDN25-YTDN100-A,YTDN100,YouTrack Stand-Alone 100-User Pack - License upgrade from 25-User Pack including upgrade subscription,2900.00,USD,2610.00,USD
+197,YTDN25-YTDN250-A,YTDN250,YouTrack Stand-Alone 250-User Pack - License upgrade from 25-User Pack including upgrade subscription,7900.00,USD,7110.00,USD
+198,YTDN25-YTDN500-A,YTDN500,YouTrack Stand-Alone 500-User Pack - License upgrade from 25-User Pack including upgrade subscription,10900.00,USD,9810.00,USD
+199,YTDN25-YTDN750-A,YTDN750,YouTrack Stand-Alone 750-User Pack - License upgrade from 25-User Pack including upgrade subscription,12900.00,USD,11610.00,USD
+200,YTDN25-YTDN1000-A,YTDN1000,YouTrack Stand-Alone 1000-User Pack - License upgrade from 25-User Pack including upgrade subscription,14900.00,USD,13410.00,USD
+201,YTDN25-YTDN2000-A,YTDN2000,YouTrack Stand-Alone 2000-User Pack - License upgrade from 25-User Pack including upgrade subscription,18900.00,USD,17010.00,USD
+202,YTDN50-YTDN100-A,YTDN100,YouTrack Stand-Alone 100-User Pack - License upgrade from 50-User Pack including upgrade subscription,2000.00,USD,1800.00,USD
+203,YTDN50-YTDN250-A,YTDN250,YouTrack Stand-Alone 250-User Pack - License upgrade from 50-User Pack including upgrade subscription,7000.00,USD,6300.00,USD
+204,YTDN50-YTDN500-A,YTDN500,YouTrack Stand-Alone 500-User Pack - License upgrade from 50-User Pack including upgrade subscription,10000.00,USD,9000.00,USD
+205,YTDN50-YTDN750-A,YTDN750,YouTrack Stand-Alone 750-User Pack - License upgrade from 50-User Pack including upgrade subscription,12000.00,USD,10800.00,USD
+206,YTDN50-YTDN1000-A,YTDN1000,YouTrack Stand-Alone 1000-User Pack - License upgrade from 50-User Pack including upgrade subscription,14000.00,USD,12600.00,USD
+207,YTDN50-YTDN2000-A,YTDN2000,YouTrack Stand-Alone 2000-User Pack - License upgrade from 50-User Pack including upgrade subscription,18000.00,USD,16200.00,USD
+208,YTDN100-YTDN250-A,YTDN250,YouTrack Stand-Alone 250-User Pack - License upgrade from 100-User Pack including upgrade subscription,5000.00,USD,4500.00,USD
+209,YTDN100-YTDN500-A,YTDN500,YouTrack Stand-Alone 500-User Pack - License upgrade from 100-User Pack including upgrade subscription,8000.00,USD,7200.00,USD
+210,YTDN100-YTDN750-A,YTDN750,YouTrack Stand-Alone 750-User Pack - License upgrade from 100-User Pack including upgrade subscription,10000.00,USD,9000.00,USD
+211,YTDN100-YTDN1000-A,YTDN1000,YouTrack Stand-Alone 1000-User Pack - License upgrade from 100-User Pack including upgrade subscription,12000.00,USD,10800.00,USD
+212,YTDN100-YTDN2000-A,YTDN2000,YouTrack Stand-Alone 2000-User Pack - License upgrade from 100-User Pack including upgrade subscription,16000.00,USD,14400.00,USD
+213,YTDN250-YTDN500-A,YTDN500,YouTrack Stand-Alone 500-User Pack - License upgrade from 250-User Pack including upgrade subscription,3000.00,USD,2700.00,USD
+214,YTDN250-YTDN750-A,YTDN750,YouTrack Stand-Alone 750-User Pack - License upgrade from 250-User Pack including upgrade subscription,5000.00,USD,4500.00,USD
+215,YTDN250-YTDN1000-A,YTDN1000,YouTrack Stand-Alone 1000-User Pack - License upgrade from 250-User Pack including upgrade subscription,7000.00,USD,6300.00,USD
+216,YTDN250-YTDN2000-A,YTDN2000,YouTrack Stand-Alone 2000-User Pack - License upgrade from 250-User Pack including upgrade subscription,11000.00,USD,9900.00,USD
+217,YTDN500-YTDN750-A,YTDN750,YouTrack Stand-Alone 750-User Pack - License upgrade from 500-User Pack including upgrade subscription,2000.00,USD,1800.00,USD
+218,YTDN500-YTDN1000-A,YTDN1000,YouTrack Stand-Alone 1000-User Pack - License upgrade from 500-User Pack including upgrade subscription,4000.00,USD,3600.00,USD
+219,YTDN500-YTDN2000-A,YTDN2000,YouTrack Stand-Alone 2000-User Pack - License upgrade from 500-User Pack including upgrade subscription,8000.00,USD,7200.00,USD
+220,YTDN750-YTDN1000-A,YTDN1000,YouTrack Stand-Alone 1000-User Pack - License upgrade from 750-User Pack including upgrade subscription,2000.00,USD,1800.00,USD
+221,YTDN750-YTDN2000-A,YTDN2000,YouTrack Stand-Alone 2000-User Pack - License upgrade from 750-User Pack including upgrade subscription,6000.00,USD,5400.00,USD
+222,YTDN1000-YTDN2000-A,YTDN2000,YouTrack Stand-Alone 2000-User Pack - License upgrade from 1000-User Pack including upgrade subscription,4000.00,USD,3600.00,USD
+223,YTD25-YTD50-A,YTD50,YouTrack Stand-Alone 50-User Pack - License upgrade from 25-User Pack including upgrade subscription,250.00,USD,225.00,USD
+224,YTD25-YTD100-A,YTD100,YouTrack Stand-Alone 100-User Pack - License upgrade from 25-User Pack including upgrade subscription,1000.00,USD,900.00,USD
+225,YTD25-YTD500-A,YTD500,YouTrack Stand-Alone 500-User Pack - License upgrade from 25-User Pack including upgrade subscription,2500.00,USD,2250.00,USD
+226,YTD25-YTD2000-A,YTD2000,YouTrack Stand-Alone 2000-User Pack - License upgrade from 25-User Pack including upgrade subscription,5500.00,USD,4950.00,USD
+227,YTD25-YTD10000-A,YTD10000,YouTrack Stand-Alone 10000-User Pack - License upgrade from 25-User Pack including upgrade subscription,9500.00,USD,8550.00,USD
+228,YTD50-YTD100-A,YTD100,YouTrack Stand-Alone 100-User Pack - License upgrade from 50-User Pack including upgrade subscription,750.00,USD,675.00,USD
+229,YTD50-YTD500-A,YTD500,YouTrack Stand-Alone 500-User Pack - License upgrade from 50-User Pack including upgrade subscription,2250.00,USD,2025.00,USD
+230,YTD50-YTD2000-A,YTD2000,YouTrack Stand-Alone 2000-User Pack - License upgrade from 50-User Pack including upgrade subscription,5250.00,USD,4725.00,USD
+231,YTD50-YTD10000-A,YTD10000,YouTrack Stand-Alone 10000-User Pack - License upgrade from 50-User Pack including upgrade subscription,9250.00,USD,8325.00,USD
+232,YTD100-YTD500-A,YTD500,YouTrack Stand-Alone 500-User Pack - License upgrade from 100-User Pack including upgrade subscription,1500.00,USD,1350.00,USD
+233,YTD100-YTD2000-A,YTD2000,YouTrack Stand-Alone 2000-User Pack - License upgrade from 100-User Pack including upgrade subscription,4500.00,USD,4050.00,USD
+234,YTD100-YTD10000-A,YTD10000,YouTrack Stand-Alone 10000-User Pack - License upgrade from 100-User Pack including upgrade subscription,8500.00,USD,7650.00,USD
+235,YTD500-YTD2000-A,YTD2000,YouTrack Stand-Alone 2000-User Pack - License upgrade from 500-User Pack including upgrade subscription,3000.00,USD,2700.00,USD
+236,YTD500-YTD10000-A,YTD10000,YouTrack Stand-Alone 10000-User Pack - License upgrade from 500-User Pack including upgrade subscription,7000.00,USD,6300.00,USD
+237,YTD2000-YTD10000-A,YTD10000,YouTrack Stand-Alone 10000-User Pack - License upgrade from 2000-User Pack including upgrade subscription,4000.00,USD,3600.00,USD
